@@ -4,7 +4,6 @@ Module 9 Challenge
 
 ## Contents
  * QuickDBD ERD.png - screenshot of ERD using QuickDBD
-   ![quickdbd erd.png](quickdbd erd.png)
  * QuickDBD-Free Export.sql - Export from Quick ERD
  * M9 SQL Data Analysis.sql - 8 x SQL Select/Join Statements
  
